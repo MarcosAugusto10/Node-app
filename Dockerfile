@@ -1,4 +1,4 @@
-FROM ubuntu:lateste
+FROM node:18
 
 WORKDIR /app
 
